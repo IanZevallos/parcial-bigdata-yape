@@ -1,1 +1,0 @@
-# Consultas MongoDB del parcial
